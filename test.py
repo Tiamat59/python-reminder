@@ -1,4 +1,5 @@
-dict = {'name':'lamouret','prenom':'romain'}
+
+dict = {'name':'brown','prenom':'alphonse'}
 print('Affichage dict par index')
 print(dict['name'])
 
